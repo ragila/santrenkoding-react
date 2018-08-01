@@ -1,0 +1,13 @@
+.Jumbotron {
+  background-image: url('http://i66.tinypic.com/28am9fs.jpg');
+  background-size: cover;
+}
+
+.kiri {
+  float: left;
+}
+
+.kanan {
+  color: red;
+  float: right;
+}
