@@ -22,7 +22,7 @@ const Example = props => {
             </p>
           </div>
         </Col>
-        <Col md="6">
+        <Col md="6" className="border">
           <div className="text-center">
             <br />
             <img
