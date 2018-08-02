@@ -1,6 +1,5 @@
-import React from 'react';
-import { Container, Row, Col } from 'reactstrap';
-import 'antd/dist/antd.css';
+import React from "react";
+import { Container, Row, Col } from "reactstrap";
 
 const Example = props => {
   return (
